@@ -1,5 +1,5 @@
 # A Brief History of Fixed-Gear Bicycles
-![Fixed-Gear Bicycle](https://images.app.goo.gl/FYwMsdj4eiP4MVve6)
+![Fixed-Gear Bicycle]([https://images.app.goo.gl/FYwMsdj4eiP4MVve6](https://images.squarespace-cdn.com/content/v1/5ffd9a896fdcad54337d6c32/b7a20bdd-4332-4f96-9bdc-43a6c6791549/20230615-B032142-R1-19-20.jpg?format=2500w))
 
 **Exploring the relationship between human and machine, muscle and and tire**
 *Newton's Third Law states that for every action, there is an equal and opposite reaction. Perhaps this relationship is seen most vividly in the pedal jockeys who ride the narrow line between speed and risk."*
