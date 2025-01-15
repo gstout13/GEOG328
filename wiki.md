@@ -5,13 +5,28 @@
 *Newton's Third Law states that for every action, there is an equal and opposite reaction. Perhaps this relationship is seen most vividly in the pedal jockeys who ride the narrow line between speed and risk."*
 
 
+
+
 ## What Is A Fixed-Gear Bicycle?
 In its utmost, a bicycle serves as both a mode of transportation and a recreational output, intent on putting humanity to its test of endurance in the pursuit of speed. A fixed-gear bicycle, while  having both experienced, and passed, its cultural prime, is one of the most primitive and direct ways of accessing the primeval drive to transition through space. Much like the original, first generation bicycles, fixed-gears have, in fact, gears which are fixed directly to the wheel. This means that for every motion forward (or backwards), both gears (known as your ratio) must also spin, in turn harnessing this power of movement through the pedals of the bicycle. This allows for a relationship with the earth's surface that is often akin to driving a stick shift car, where an intuited level of connection is formed that requires the utmost intentionality. 
 
+![Velodrome](https://thefixedgear.wordpress.com/wp-content/uploads/2010/08/madison_eng_4.jpg)
+
 ## What Are the Parts?
 Unlike their modern competitors, the fixed-gear bicycle is simplistic and built for minimal interface change or maintenance. There are no changing drive trains, or gear shifters, nor calipered or rim breaks. Lube up your chain, and go!
+
+![Frame](https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/s/10/7b22dd98-f810-4bd5-bdf6-0fc529c6bf30.jpg)
+
+
 ###  Frame
 The frame is simplistic, with no needed gauges for break lines, though a defining featuristic is the horizontal dropouts for the rear wheel. 
+
+Things to consider with frames:
+- What type of riding will you be doing?
+- Does weight matter?
+- Will your bike be locked up on the street, or never leave your line of sight?
+- How much steaze do you aim to achieve?
+
 ### Tires
 You will need many of these, as you skid your way through rubber to stop.
 
